@@ -21,13 +21,6 @@
 
 ---
 
-## 🖼️ Capturas de pantalla
-
-*(Puedes añadir imágenes aquí cuando las tengas, por ejemplo con:)*  
-`<img src="ruta/a/captura1.png" width="700"/>`
-
----
-
 ## 🛠️ Requisitos
 
 - PowerShell 5.1 (recomendado)
